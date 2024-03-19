@@ -1,0 +1,54 @@
+h1{
+    color: blue;
+    font-size: 10px;
+}
+
+p{
+    color: red;
+    font-size: 8px;
+}
+span
+{
+    color: green;
+    font-size: 15px;
+}
+h1:hover{
+    color: aqua;
+    cursor: grab;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    box-shadow: 10px;
+}
+.lewla{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 150px;
+
+}
+.tanya{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    gap: 150px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: red;
+    cursor: grab;
+}
+.google
+{
+    margin-right: 50px;
+}
+h3:hover{
+    color: red;
+    cursor: grab;
+}
+
